@@ -203,7 +203,7 @@ MIT License
 ### Created By
 - **Name:** TrivikramMajjari
 - **Created:** 2024-11-23
-- **GitHub:** [TrivikramMajjari](https://github.com/TrivikramMajjari)
+- **GitHub:** [trivikramm](https://github.com/trivikramm)
 
 ---
 
